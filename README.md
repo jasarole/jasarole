@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasarole
-- 👀 I’m interested in full-stack dev
-- 🌱 I’m currently learning javascript, C#
+- 👀 I’m interested in full-stack dev, webapps, gaming.
+- 🌱 I’m currently learning .NET stack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://jasondevs.com
 
