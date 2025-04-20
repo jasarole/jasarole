@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasarole
-- 👀 I’m interested in the whole wide field of "full-stack" development, webapps, gaming, ttrpgs, fantasy/sci-fi novels and worldbuilding.
+- 👀 I’m interested in the whole wide field of "full-stack" development. Other general nerdy hobbies; gaming, ttrpgs, fantasy/sci-fi novels and worldbuilding.
 - ✔ I primarily use C# .NET, but have a full grasp on HTML5, CSS3, JS
 - 🌱 I’m currently learning React and TypeScript
 - 📫 Reach me here... https://jasondevs.com
